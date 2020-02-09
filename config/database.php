@@ -71,7 +71,7 @@ return [
             'database' => "d331aqhrqeqv6s",
             'username' => "nybhkhiihnmgff",
             'password' => "f8d32e91607e650f0d7de99a0642e4e0a8a490cafca05aa6da8b834ddb5e1248",
-            'charset' => 'utf8',
+            'charset' => 'utf8mb4',
             'prefix' => '',
             'prefix_indexes' => true,
             'schema' => 'public',
